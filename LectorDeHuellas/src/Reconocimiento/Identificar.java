@@ -48,7 +48,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author William
+ * @author William GO
  */
 public class Identificar extends javax.swing.JFrame {
 
